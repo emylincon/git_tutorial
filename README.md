@@ -1,6 +1,6 @@
-![GitHub Workflow Status](https://img.shields.io/github/workflow/status/emylincon/git_tutorial/API-test?style=for-the-badge)
+![GitHub Workflow Status](https://img.shields.io/github/workflow/status/buchelij/git_ictcw2/API-test?style=for-the-badge)
 
-![status](https://github.com/emylincon/git_tutorial/workflows/API-test/badge.svg)
+![status](https://github.com/buchelij/git_ictcw2/workflows/API-test/badge.svg)
 
 # Basic Calculator API
 Complete the functions for the build test to pass

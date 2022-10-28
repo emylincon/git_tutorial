@@ -1,4 +1,4 @@
-![GitHub Workflow Status](https://img.shields.io/github/workflow/status/buchelij/git_ictcw2/API-test?style=for-the-badge)
+![GitHub Workflow Status](https://img.shields.io/github/workflow/status/buchelij/ictcw2/API-test?style=for-the-badge)
 
 ![status](https://github.com/buchelij/git_ictcw2/workflows/API-test/badge.svg)
 
